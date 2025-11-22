@@ -1,4 +1,4 @@
-# IPL-Analysis
+# IPL-MATCH-Analysis-PREDICTION-USING-DATA SCIENCE
 Analyzing Indian Premier League (IPL) match and delivery data using Python. Performing exploratory data analysis (EDA) to uncover key team and player trends. Investigating how factors like toss decision, venue, and innings impact match outcomes. Identifying top run-scorers, wicket-takers, and highest-impact players. 
 Project Overview
 
@@ -6,7 +6,7 @@ This repository contains a comprehensive data-analysis project on the Indian Pre
 
 Goals & Objectives
 
-Perform Exploratory Data Analysis (EDA) to understand IPL match dynamics (2008–present).
+Perform Exploratory Data Analysis (EDA) to understand IPL match dynamics (2008–2024).
 
 Identify top-performing teams and players over the years.
 
@@ -63,8 +63,6 @@ Pandas for DataFrame manipulation
 NumPy for numerical operations
 
 Matplotlib / Seaborn / Plotly for visualizations
-
-(Optional) scikit-learn for predictive modeling
 
 How to Use / Run
 
